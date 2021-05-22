@@ -1,2 +1,2 @@
-file:///D:/project/SERVICES.html
+https://jeelansyed23.github.io/projects/
 
